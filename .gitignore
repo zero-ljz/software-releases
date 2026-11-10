@@ -1,5 +1,6 @@
 *.dmg
 *.zip
+*.7z
 *.exe
 *.msi
 *.msix
