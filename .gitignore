@@ -1,0 +1,11 @@
+*.dmg
+*.zip
+*.exe
+*.msi
+*.msix
+*.pkg
+*.AppImage
+*.deb
+*.rpm
+.DS_Store
+Thumbs.db
