@@ -21,12 +21,12 @@
 
 ## 校验下载
 
-Release 提供 `SHA256SUMS.txt`，可与下载文件的 SHA-256 对照。
+Release 为每个安装包提供同名的 `.sha256` 校验文件，例如 `SnapNeo-1.1.0-macos-arm64.dmg.sha256`。
 
-在 macOS 上运行：
+将安装包与对应的 `.sha256` 文件下载到同一目录后，在 macOS 上运行：
 
 ```sh
-shasum -a 256 SnapNeo-1.1.0-macos-arm64.dmg
+shasum -a 256 -c SnapNeo-1.1.0-macos-arm64.dmg.sha256
 ```
 
 ## 产品授权
