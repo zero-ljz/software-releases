@@ -6,7 +6,7 @@
 
 | 产品 | 版本 | 平台 | 下载 | 官网 |
 | --- | --- | --- | --- | --- |
-| SnapNeo | 1.1.0 | Windows x64 / macOS 14+ arm64 | [最新版本](https://github.com/zero-ljz/software-releases/releases/tag/snapneo%2Fv1.1.0) | [snapneo.app](https://snapneo.app/) |
+| SnapNeo | 1.1.0 | Windows x64 / macOS 14+ arm64 / x64 | [最新版本](https://github.com/zero-ljz/software-releases/releases/tag/snapneo%2Fv1.1.0) | [snapneo.app](https://snapneo.app/) |
 
 [查看所有版本](https://github.com/zero-ljz/software-releases/releases)
 
