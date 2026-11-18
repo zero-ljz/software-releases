@@ -6,8 +6,8 @@
 
 | 产品 | 版本 | 平台 | 下载 | 官网 |
 | --- | --- | --- | --- | --- |
-| SnapNeo | 1.1.0 | Windows x64 / macOS 14+ arm64 / x64 | [最新版本](https://github.com/zero-ljz/software-releases/releases/tag/snapneo%2Fv1.1.0) | [snapneo.app](https://snapneo.app/) |
-| Screen Eye Care / 屏幕护眼助手 | 1.0.0 | macOS Apple Silicon / Intel（通用包） | [最新版本](https://github.com/zero-ljz/software-releases/releases/tag/screen-eye-care%2Fv1.0.0) | [screeneyecare.com](https://screeneyecare.com/) |
+| SnapNeo | 1.1.0 | Windows 10+ / macOS 14+ | [最新版本](https://github.com/zero-ljz/software-releases/releases/tag/snapneo%2Fv1.1.0) | [snapneo.app](https://snapneo.app/) |
+| Screen Eye Care / 屏幕护眼助手 | 1.0.0 | Windows 10+ / macOS 12+ | [最新版本](https://github.com/zero-ljz/software-releases/releases/tag/screen-eye-care%2Fv1.0.0) | [screeneyecare.com](https://screeneyecare.com/) |
 
 [查看所有版本](https://github.com/zero-ljz/software-releases/releases)
 
